@@ -1,0 +1,26 @@
+code,title,column_name
+PP,Programming with Python,Diagnostic Exam Score: [Programming with Python]
+DP,Data Processing with Numpy/Pandas,Diagnostic Exam Score: [Data Processing with Numpy/Pandas]
+DV,Data Visualization in Python,"Diagnostic Exam Score: [Data Visualization in Python (Matplotlib, Seaborn, Bokeh)]"
+WS,Web Scraping,"Diagnostic Exam Score: [Web Scraping (beautiful-soup, scrapy)]"
+WD,Web Development,"Diagnostic Exam Score: [Web Development (Java, Scala)]"
+DBS,Database Structures,"Diagnostic Exam Score: [Database Structures (SQL,BigQuery, Mapreduce, Apachebeam, Hadoop, Spark, Kafka, etc.)]"
+DE,Data Engineering Processes,"Diagnostic Exam Score: [Data engineering processes (ETL, Cloud)]"
+MLMS,Core Machine Learning Math and Stats,"Diagnostic Exam Score: [Core machine learning math and stats (ANOVA, linear algebra, gradient descent, time series analysis)]"
+GNT,Graph and Network Theory,Diagnostic Exam Score: [Graph and Network Theory]
+MLP,Machine Learning Process,"Diagnostic Exam Score: [Machine Learning Process (Feature Engineering, Cross-validation, Train-Test Split)]"
+SML,Supervised Machine Learning,Diagnostic Exam Score: [Supervised Machine Learning]
+UML,Unsupervised Machine Learning,Diagnostic Exam Score: [Unsupervised Machine Learning]
+DL,Deep Learning,Diagnostic Exam Score: [Deep learning (artificial neural networks)]
+GDA,Geospatial Data Analysis,Diagnostic Exam Score: [Geospatial data analysis]
+AS,Agile/Scrum,Diagnostic Exam Score: [Agile/Scrum]
+IX,Intermediate Excel,"Diagnostic Exam Score: [Intermediate Excel (INDEX/MATCH, text formulas, pivot tables)]"
+AX,Advanced Excel,"Diagnostic Exam Score: [Advanced Excel (Macros, VBA)]"
+PBI,Power BI,Diagnostic Exam Score: [PowerBI]
+SQL,SQL,Diagnostic Exam Score: [SQL]
+AF,Analytical Frameworks,Diagnostic Exam Score: [Analytical frameworks]
+DS,Descriptive Statistics,"Diagnostic Exam Score: [Descriptive statistics (Mean/Median/Mode, SD, SE, r, etc.)]"
+VS,Making and Designing Beautiful Visuals and Slides,Diagnostic Exam Score: [Making and designing beautiful visuals and slides]
+SP,Storytelling and Presentation,Diagnostic Exam Score: [Storytelling and presentation]
+FA,Financial Analysis,Diagnostic Exam Score: [Financial analysis]
+PM,Project Management,Diagnostic Exam Score: [Project management]
