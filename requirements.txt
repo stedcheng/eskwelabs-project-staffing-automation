@@ -1,4 +1,5 @@
 streamlit
-numpy
 pandas
-regex
+numpy
+st-aggrid
+streamlit-sortables
